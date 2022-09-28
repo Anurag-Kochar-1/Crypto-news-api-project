@@ -15,10 +15,10 @@ const EMOJI_OPTIONS = [
 
 const options = {
   method: 'GET',
-  url: 'https://crypto-news-live3.p.rapidapi.com/news',
+  url: 'https://crypto-news-live3.p.e.com/news',
   headers: {
-    'X-RapidAPI-Key': 'b8722de03emsh1c9033b7a8202f2p11764ajsn8040e596aea1',
-    'X-RapidAPI-Host': 'crypto-news-live3.p.rapidapi.com'
+    'X-RapidAPI-Key': 'e',
+    'X-RapidAPI-Host': 'crypto-news-live3.p.e.com'
   }
 };
 
